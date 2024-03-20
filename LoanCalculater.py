@@ -1,5 +1,3 @@
-
-
 input_file = open("data/input.csv","r")
 input_heading = input_file.readline()
 input_data = input_file.readline().strip().split(",")
