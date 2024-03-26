@@ -1,6 +1,7 @@
 # Write a program to generate a list of uniformly distributed random numbers.
 import random
 
+
 def get_random_list(max_size, start_num, end_num):
     a_list = []
     for index in range(max_size):
